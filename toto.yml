@@ -4,5 +4,4 @@ metadata:
   name: edgepop-sample
 spec:
   # Add fields here
-  foo: superpingouin
-  
+  foo: toto
