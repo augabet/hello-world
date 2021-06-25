@@ -1,0 +1,7 @@
+apiVersion: edge.operator.algolia.net/v1
+kind: EdgePop
+metadata:
+  name: edgepop-sample
+spec:
+  # Add fields here
+  foo: bar
