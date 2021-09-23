@@ -55,4 +55,12 @@ spec:
       - image: k8s.gcr.io/echoserver:1.4
         name: echoserver
         resources: {}
+status: {}apiVersion: v1
+---
+kind: Namespace
+metadata:
+  creationTimestamp: null
+  name: demoapp
+spec: {}
 status: {}
+
